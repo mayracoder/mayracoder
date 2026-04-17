@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Sara%20Mayra&fontColor=ffffff&fontAlign=50&fontAlignY=40&fontSize=56&animation=twinkling&fontFamily=poppins&color=0:9759ff,50:9759ff,100:9759ff"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Sara%20Mayra&fontColor=ffffff&fontAlign=50&fontAlignY=40&fontSize=56&animation=twinkling&fontFamily=Montserrat&color=0:9759ff,50:9759ff,100:9759ff"
     alt="banner"
   />
 </p>
