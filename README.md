@@ -19,13 +19,14 @@
  
 
 <h2 align="left">Sobre mim:</h2>
-Olá! Me chamo Sara Mayra, tenho 19 anos e sou estudante de ADS na UNINTER.
+<p align="left"> Olá! Me chamo Sara Mayra, tenho 19 anos e sou estudante de ADS na UNINTER.</p>
 
 ###
-<h2 align="left">Linguagens e ferramentas:
- 
-  ###
-  
+
+<h2 align="left">Linguagens e ferramentas:</h2>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -34,6 +35,10 @@ Olá! Me chamo Sara Mayra, tenho 19 anos e sou estudante de ADS na UNINTER.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
